@@ -8,7 +8,7 @@ Visual and audio warning signals are triggered when users enter predefined proxi
 
 ## Tool Access
 
-The tool can be downloaded from the link provided below in zipped format.
+The tool can be downloaded from the link provided below in zipped format "Dhruv-Drishti.7z".
 
 > **Note:** The file is currently password protected as the associated work is under journal manuscript submission and review.
 > Once the manuscript is published, the password protection will be removed and the tool will be made openly accessible to the public.
